@@ -10,12 +10,12 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on [**QiratAPp**](https://github.com/hassaanhaider88/Qeeerat)
+- 🔭 I’m currently working on [**QiratApp**](https://github.com/hassaanhaider88/Qeeerat)
 - 🌱 Learning: **React Native**
 - 🧠 Interested in: **Web 3.0**, **AI Integration**, **Full Stack Apps**
 - 💬 Ask me about: **React**, **Next.js**, **Node.js**
 - 📫 Email: **hassaanhaider.dev@proton.me**
-- 🧾 [My Resume](https://ik.imagekit.io/hassaan/Resume__NPtoToH1u3.me)
+- 🧾 [My Resume](https://ik.imagekit.io/hassaan/HHCV_HlKjfhjCW)
 - 🌐 [Portfolio Website](https://hassaan-haider.netlify.app/)
 
 ## 🛠 Tech Stack & Tools
