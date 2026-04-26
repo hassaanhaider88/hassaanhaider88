@@ -1,101 +1,107 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Hassaan+Haider+%E2%9A%A1;Frontend+Developer+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;React+%7C+Next.js+%7C+Node+%7C+Tailwind+%7C+Open+Source+Contributor" alt="Typing SVG" />
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hassaanhaider88&label=Profile+Views&color=0e75b6&style=flat" alt="profile view" />
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 I’m currently working on [**QiratApp**](https://github.com/hassaanhaider88/Qeeerat)
-- 🌱 Learning: **React Native**
-- 🧠 Interested in: **Web 3.0**, **AI Integration**, **Full Stack Apps**
-- 💬 Ask me about: **React**, **Next.js**, **Node.js**
-- 📫 Email: **hassaanhaider.dev@proton.me**
-- 🧾 [My Resume](https://ik.imagekit.io/hassaan/HHCV_HlKjfhjCW)
-- 🌐 [Portfolio Website](https://hassaan-haider.netlify.app/)
-
-## 🛠 Tech Stack & Tools
+<h1 align="center">Hassaan Haider</h1>
+<h3 align="center">Frontend Developer · React · Next.js · Node.js · Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-</p>
-
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://twitter.com/hassaan88hmk" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  <a href="https://hassaanhaider.site" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-hassaanhaider.site-0e75b6?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  <a href="mailto:hassaanhaider.dev@proton.me">
+    <img src="https://img.shields.io/badge/Email-hassaanhaider.dev%40proton.me-6d4aff?style=flat-square&logo=protonmail&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/hassaan-haider-627272294" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Hassaan%20Haider-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  <a href="https://ik.imagekit.io/hassaan/HHCV_HlKjfhjCW" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20CV-green?style=flat-square&logo=read-the-docs&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=hassaanhaider88&label=Profile+Views&color=0e75b6&style=flat-square" />
+</p>
+
+---
+
+## About Me
+
+I'm a **Frontend Developer** from Pakistan with hands-on experience building performant, scalable web applications using **React**, **Next.js**, and **Node.js**. I focus on writing clean, maintainable code and delivering polished user experiences.
+
+Currently expanding into **Python, AI/ML**, and **Web 3.0** to stay ahead of the curve. I enjoy contributing to open source and building products that solve real problems.
+
+- 🔭 Current Project: [**Punjab Pizza Club**](https://github.com/hassaanhaider88/PunjabPizzaClub) — a full-stack food ordering application
+- 🌱 Currently Learning: **Python · AI/ML Integration · Web 3.0**
+- 💬 Ask me about: **React · Next.js · Node.js · MongoDB · TypeScript · Fastify**
+- 📫 Reach me at: **hassaanhaider.dev@proton.me**
+
+---
+
+## Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassaanhaider88&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaanhaider88&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hassaanhaider88&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hassaanhaider88&theme=flat&column=7&margin-w=10&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+## Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/hassaan-haider-627272294" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/hassaan88hmk" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />
+  </a>
+  &nbsp;
   <a href="https://stackoverflow.com/users/24513248" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stackoverflow.svg" alt="StackOverflow" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Stack_Overflow-Profile-FE7A16?style=for-the-badge&logo=stack-overflow" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://codepen.io/hassaan-haider-the-sans" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" alt="Codepen" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/c/hassaanhaiderdev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/CodePen-Work-000000?style=for-the-badge&logo=codepen" />
   </a>
 </p>
 
-
-## 🏆 GitHub Achievements
+---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hassaanhaider88&theme=dracula&column=7&margin-w=10&margin-h=10" />
+  <i>"Write code that's readable today and maintainable tomorrow."</i>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassaanhaider88&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaanhaider88&layout=compact&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hassaanhaider88&theme=radical&hide_border=true" />
-</p>
-
----
-
-## ☕ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/hassaanhaider.dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="220" alt="Buy Me A Coffee" /></a>
-</p>
-
----
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
-
----
-
-> _"Code is not just my profession — it’s my playground."_  
-> — **Hassaan Haider .Dev**
-
