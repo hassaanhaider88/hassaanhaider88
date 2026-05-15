@@ -21,14 +21,14 @@
 
 ---
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="360" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" />
 
 ### 👨‍💻 About Me
 
 I'm a **MERN Stack Developer** from 🇵🇰 Pakistan, passionate about building fast, beautiful, and accessible web experiences.
 
 - 🔭 &nbsp;Building: **[Punjab Pizza Club](https://github.com/hassaanhaider88/PunjabPizzaClub)** — Full-stack food ordering app
-- 🌱 &nbsp;Learning: **Python · AI/ML · Web 3.0**
+- 🌱 &nbsp;Learning: **Python · AI/ML · PHP and Rust**
 - 💡 &nbsp;Interests: **AI Integration · Full Stack Apps · Open Source**
 - 💬 &nbsp;Ask me about: `React` `Next.js` `Node.js` `MongoDB` `TypeScript`
 - 📬 &nbsp;Reach me: **hassaanhaider.dev@proton.me**
@@ -37,6 +37,7 @@ I'm a **MERN Stack Developer** from 🇵🇰 Pakistan, passionate about building
 <br clear="right"/>
 
 ---
+
 
 ## 🛠️ Tech Stack
 
