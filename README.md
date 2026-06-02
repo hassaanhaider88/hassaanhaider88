@@ -10,7 +10,7 @@
 
 <!-- Social Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=58A6FF)](https://hassaanhaider.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaan-haider-627272294)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaan-haider)
 [![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hassaanhaider.dev@proton.me)
 [![Resume](https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://ik.imagekit.io/hassaan/HHCV_HlKjfhjCW)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hassaan88hmk)
@@ -110,7 +110,7 @@ I'm a **MERN Stack Developer** from 🇵🇰 Pakistan, passionate about building
 
 I'm actively looking for **Frontend / Full Stack Developer** roles. If you're building something great, let's talk!
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaan-haider-627272294)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaan-haider)
 &nbsp;
 [![Email Me](https://img.shields.io/badge/Send%20an%20Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hassaanhaider.dev@proton.me)
 &nbsp;
