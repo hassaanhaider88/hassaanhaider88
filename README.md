@@ -3,6 +3,7 @@
 <!-- Animated Header Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hassaan%20Haider&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=55&descSize=18" />
 
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fhassaanhaider88&style=flat)](https://rankistan.dev)
 <!-- Animated Typing -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+seamless+web+experiences+%F0%9F%9A%80;React+%2B+Next.js+%2B+Node.js+Developer;Always+learning%2C+always+shipping+%E2%9C%A8;Open+to+exciting+opportunities+%F0%9F%91%80" alt="Typing SVG" />
 
