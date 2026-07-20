@@ -9,6 +9,7 @@
 
 <br/>
 
+
 <!-- Social Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=58A6FF)](https://hassaanhaider.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaan-haider)
@@ -19,7 +20,9 @@
 <img src="https://komarev.com/ghpvc/?username=hassaanhaider88&label=Profile+Views&color=58A6FF&style=flat-square" />
 
 </div>
-
+<br/>
+<img src="https://raw.githubusercontent.com/farzeen-ali/farzeen-ali/main/assets/divider.svg" />
+<br/>
 ---
 
 <img align="right" width="360" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" />
@@ -37,8 +40,8 @@ I'm a **MERN Stack Developer** from 🇵🇰 Pakistan, passionate about building
 
 <br clear="right"/>
 
----
-
+<img src="https://raw.githubusercontent.com/farzeen-ali/farzeen-ali/main/assets/divider.svg" />
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -69,7 +72,8 @@ I'm a **MERN Stack Developer** from 🇵🇰 Pakistan, passionate about building
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/farzeen-ali/farzeen-ali/main/assets/divider.svg" />
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -89,7 +93,8 @@ I'm a **MERN Stack Developer** from 🇵🇰 Pakistan, passionate about building
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassaanhaider88&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="95%" />
 </div>
 
----
+<img src="https://raw.githubusercontent.com/farzeen-ali/farzeen-ali/main/assets/divider.svg" />
+<br/>
 
 ## 📈 Profile Summary
 
@@ -103,7 +108,8 @@ I'm a **MERN Stack Developer** from 🇵🇰 Pakistan, passionate about building
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hassaanhaider88&theme=tokyonight&utcOffset=5" width="31%" />
 </div>
 
----
+<img src="https://raw.githubusercontent.com/farzeen-ali/farzeen-ali/main/assets/divider.svg" />
+<br/>
 
 ## 🤝 Let's Work Together
 
