@@ -14,7 +14,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=58A6FF)](https://hassaanhaider.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaan-haider)
 [![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hassaanhaider.dev@proton.me)
-[![Resume](https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://ik.imagekit.io/hassaan/HHCV_HlKjfhjCW)
+[![Resume](https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1jYwJoa9JgUt9BQWT6sWoc_vVvd9IVez4/view?usp=sharing)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hassaan88hmk)
 
 <img src="https://komarev.com/ghpvc/?username=hassaanhaider88&label=Profile+Views&color=58A6FF&style=flat-square" />
@@ -23,7 +23,6 @@
 <br/>
 <img src="https://raw.githubusercontent.com/farzeen-ali/farzeen-ali/main/assets/divider.svg" />
 <br/>
----
 
 <img align="right" width="360" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" />
 
@@ -32,7 +31,7 @@
 I'm a **MERN Stack Developer** from 🇵🇰 Pakistan, passionate about building fast, beautiful, and accessible web experiences.
 
 - 🔭 &nbsp;Building: **[Punjab Pizza Club](https://github.com/hassaanhaider88/PunjabPizzaClub)** — Full-stack food ordering app
-- 🌱 &nbsp;Learning: **Python · AI/ML · PHP and Rust**
+- 🌱 &nbsp;Learning: **NestJs - Python · AI/ML · PHP and Rust**
 - 💡 &nbsp;Interests: **AI Integration · Full Stack Apps · Open Source**
 - 💬 &nbsp;Ask me about: `React` `Next.js` `Node.js` `MongoDB` `TypeScript`
 - 📬 &nbsp;Reach me: **hassaanhaider.dev@proton.me**
@@ -59,9 +58,15 @@ I'm a **MERN Stack Developer** from 🇵🇰 Pakistan, passionate about building
 
 ### 🔧 Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 
 ### 🧰 Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
